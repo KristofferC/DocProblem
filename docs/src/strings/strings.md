@@ -1,6 +1,6 @@
 # Strings
 
 ```@docs
-DocProblem.Strings.f(::AbstractString)
-DocProblem.Strings.f2
+DocProblem.f(::AbstractString)
+DocProblem.f2
 ```
